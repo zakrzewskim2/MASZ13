@@ -1,0 +1,126 @@
+Lilo and Stitch---|---Rudolph the Red-Nosed Reindeer---|---The Santa Clause 2---|---The Santa Clause---|---Teen Titans: Season 1---|---Scooby-Doo Meets Batman---|---Spider-Man: The Ultimate Villain Showdown---|---Texas Chainsaw Massacre: A Family Portrait---|---Teen Titans: Season 2---|---Scooby-Doo's Original Mysteries---|---Pocahontas---|---Cinderella II---|---Scooby-Doo and the Monster of Mexico---|---Sabrina the Teenage Witch: Friends Forever---|---Scooby-Doo's Spookiest Tales---|---Saw---|---Teenage Mutant Ninja Turtles III---|---Scooby-Doo 2: Monsters Unleashed---|---The Best of the New Scooby-Doo Movies---|---
+--------------------- neighbor 0 ---------------------
+Lilo and Stitch ----- (him) 5 : 5 (you)
+Rudolph the Red-Nosed Reindeer ----- (him) 5 : 5 (you)
+The Santa Clause 2 ----- (him) 5 : 5 (you)
+The Santa Clause ----- (him) 5 : 5 (you)
+Teen Titans: Season 1 ----- (him) 5 : 5 (you)
+Scooby-Doo Meets Batman ----- (him) 5 : 5 (you)
+Spider-Man: The Ultimate Villain Showdown ----- (him) 5 : 5 (you)
+Teen Titans: Season 2 ----- (him) 5 : 5 (you)
+Scooby-Doo's Original Mysteries ----- (him) 5 : 5 (you)
+Pocahontas ----- (him) 4 : 5 (you)
+Cinderella II ----- (him) 5 : 5 (you)
+Scooby-Doo and the Monster of Mexico ----- (him) 5 : 5 (you)
+Scooby-Doo's Spookiest Tales ----- (him) 5 : 5 (you)
+Saw ----- (him) 4 : 1 (you)
+Teenage Mutant Ninja Turtles III ----- (him) 5 : 5 (you)
+Scooby-Doo 2: Monsters Unleashed ----- (him) 5 : 5 (you)
+--------------------- neighbor 1 ---------------------
+Lilo and Stitch ----- (him) 5 : 5 (you)
+Teen Titans: Season 1 ----- (him) 5 : 5 (you)
+Scooby-Doo Meets Batman ----- (him) 5 : 5 (you)
+Spider-Man: The Ultimate Villain Showdown ----- (him) 5 : 5 (you)
+Scooby-Doo's Original Mysteries ----- (him) 5 : 5 (you)
+Pocahontas ----- (him) 5 : 5 (you)
+Cinderella II ----- (him) 5 : 5 (you)
+Scooby-Doo and the Monster of Mexico ----- (him) 5 : 5 (you)
+Sabrina the Teenage Witch: Friends Forever ----- (him) 3 : 5 (you)
+Scooby-Doo's Spookiest Tales ----- (him) 5 : 5 (you)
+Saw ----- (him) 1 : 1 (you)
+Teenage Mutant Ninja Turtles III ----- (him) 4 : 5 (you)
+Scooby-Doo 2: Monsters Unleashed ----- (him) 4 : 5 (you)
+The Best of the New Scooby-Doo Movies ----- (him) 5 : 5 (you)
+--------------------- neighbor 2 ---------------------
+Lilo and Stitch ----- (him) 5 : 5 (you)
+The Santa Clause 2 ----- (him) 5 : 5 (you)
+The Santa Clause ----- (him) 4 : 5 (you)
+Scooby-Doo Meets Batman ----- (him) 5 : 5 (you)
+Spider-Man: The Ultimate Villain Showdown ----- (him) 5 : 5 (you)
+Scooby-Doo's Original Mysteries ----- (him) 5 : 5 (you)
+Pocahontas ----- (him) 5 : 5 (you)
+Cinderella II ----- (him) 5 : 5 (you)
+Scooby-Doo and the Monster of Mexico ----- (him) 5 : 5 (you)
+Scooby-Doo's Spookiest Tales ----- (him) 5 : 5 (you)
+Saw ----- (him) 5 : 1 (you)
+Teenage Mutant Ninja Turtles III ----- (him) 4 : 5 (you)
+Scooby-Doo 2: Monsters Unleashed ----- (him) 5 : 5 (you)
+The Best of the New Scooby-Doo Movies ----- (him) 5 : 5 (you)
+--------------------- neighbor 3 ---------------------
+Lilo and Stitch ----- (him) 5 : 5 (you)
+The Santa Clause 2 ----- (him) 5 : 5 (you)
+The Santa Clause ----- (him) 5 : 5 (you)
+Teen Titans: Season 1 ----- (him) 5 : 5 (you)
+Scooby-Doo Meets Batman ----- (him) 5 : 5 (you)
+Spider-Man: The Ultimate Villain Showdown ----- (him) 5 : 5 (you)
+Scooby-Doo's Original Mysteries ----- (him) 5 : 5 (you)
+Pocahontas ----- (him) 5 : 5 (you)
+Scooby-Doo and the Monster of Mexico ----- (him) 5 : 5 (you)
+Scooby-Doo's Spookiest Tales ----- (him) 5 : 5 (you)
+Scooby-Doo 2: Monsters Unleashed ----- (him) 4 : 5 (you)
+The Best of the New Scooby-Doo Movies ----- (him) 5 : 5 (you)
+--------------------- neighbor 4 ---------------------
+Lilo and Stitch ----- (him) 5 : 5 (you)
+The Santa Clause ----- (him) 5 : 5 (you)
+Teen Titans: Season 1 ----- (him) 5 : 5 (you)
+Scooby-Doo Meets Batman ----- (him) 5 : 5 (you)
+Spider-Man: The Ultimate Villain Showdown ----- (him) 5 : 5 (you)
+Scooby-Doo's Original Mysteries ----- (him) 5 : 5 (you)
+Pocahontas ----- (him) 5 : 5 (you)
+Scooby-Doo and the Monster of Mexico ----- (him) 5 : 5 (you)
+Scooby-Doo's Spookiest Tales ----- (him) 5 : 5 (you)
+Scooby-Doo 2: Monsters Unleashed ----- (him) 5 : 5 (you)
+The Best of the New Scooby-Doo Movies ----- (him) 5 : 5 (you)
+
+ --------- RECOMMENDATIONS --------- 
+
+Charlotte's Web ----- 5.00 : 86%
+Hercules ----- 5.00 : 86%
+Dr. Dolittle 2 ----- 5.00 : 86%
+Casper ----- 5.00 : 86%
+The Three Musketeers ----- 5.00 : 86%
+Aladdin: Platinum Edition ----- 5.00 : 86%
+Sleeping Beauty: Special Edition ----- 5.00 : 86%
+The Lion King: Special Edition ----- 5.00 : 86%
+Batman Beyond: Return of the Joker ----- 5.00 : 86%
+The Princess Diaries (Fullscreen) ----- 5.00 : 86%
+The Parent Trap ----- 5.00 : 86%
+Who Framed Roger Rabbit?: Special Edition ----- 5.00 : 86%
+Stuart Little ----- 5.00 : 86%
+Robin Hood (Disney) ----- 5.00 : 86%
+Mrs. Doubtfire ----- 5.00 : 86%
+The Rescuers ----- 5.00 : 86%
+The Rescuers Down Under ----- 5.00 : 86%
+Fun and Fancy Free ----- 5.00 : 86%
+Ice Age ----- 5.00 : 86%
+The Rookie ----- 5.00 : 86%
+Scooby-Doo and the Legend of the Vampire ----- 5.00 : 86%
+The Adventures of Milo and Otis ----- 5.00 : 86%
+Raiders of the Lost Ark ----- 5.00 : 86%
+Groundhog Day ----- 5.00 : 86%
+The Land Before Time II: The Great Valley Adventure ----- 5.00 : 86%
+Indiana Jones and the Temple of Doom ----- 5.00 : 86%
+Scooby-Doo Goes Hollywood ----- 5.00 : 86%
+Spider-Man 2 ----- 5.00 : 86%
+A Goofy Movie ----- 5.00 : 86%
+The Kid ----- 5.00 : 86%
+Scooby-Doo and the Witch's Ghost ----- 5.00 : 86%
+Men in Black ----- 5.00 : 86%
+Scooby-Doo and the Ghoul School ----- 5.00 : 86%
+The Aristocats ----- 5.00 : 86%
+Toy Story ----- 5.00 : 86%
+Willy Wonka & the Chocolate Factory ----- 5.00 : 86%
+Balto ----- 5.00 : 86%
+Scooby-Doo and the Alien Invaders ----- 5.00 : 86%
+The Day After Tomorrow ----- 5.00 : 86%
+The Fox and the Hound ----- 5.00 : 86%
+Remember the Titans ----- 5.00 : 86%
+Scooby-Doo's Greatest Mysteries ----- 5.00 : 86%
+The Parent Trap ----- 5.00 : 86%
+Jungle 2 Jungle ----- 5.00 : 86%
+Meet the Parents ----- 5.00 : 86%
+All Dogs Go to Heaven ----- 5.00 : 86%
+National Treasure ----- 5.00 : 86%
+Hitch ----- 5.00 : 86%
+Clueless ----- 5.00 : 86%
+Like Mike ----- 5.00 : 86%
